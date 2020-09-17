@@ -1,0 +1,165 @@
+.overskrift{
+	text-align: center;
+	font-size: 50px;
+}
+
+.bøger{
+	color: DodgerBlue;
+	font-weight: bold;
+}
+
+
+.div1 {
+    display: block;
+    border: 1px;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.div1-left {
+	display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+.div1-right {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
+
+
+.hl-blue{
+	width: 50%;
+	border: 4px solid DodgerBlue;
+	margin-bottom: 25px;
+	margin-top: 10px;
+}
+
+p, h2{
+	color: black;
+}
+
+
+.div2 {
+    display: block;
+    border: 1px;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.div2-left {
+	display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+.div2-right {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
+
+.debat{
+	color: DodgerBlue;
+	font-weight: bold;
+}
+
+.arkiv{
+	color: white;
+}
+
+.arkiv span{
+	background-color: DodgerBlue;
+}
+
+.author{
+	font-weight: bold;
+}
+
+.div-2-1-img{
+	height: 100%;
+	width: 90%;
+}
+
+.div-2-2-img{
+
+	width: 84%;
+
+}
+
+.vl{
+	display: inline-block;
+  	border-left: 1px solid grey;
+  	height: 760px;
+  	opacity: 25%
+}
+
+.hl{
+	width: 50%;
+	opacity: 35%
+}
+
+.div3{
+    display: block;
+    border: 1px solid DodgerBlue;
+    height: 100%;
+    width: 50%;
+    overflow: hidden;
+    text-align: center;
+    margin: auto;
+}
+
+.vl-blue{
+	display: inline-block;
+  	border: 1px solid DodgerBlue;
+  	height: 540px;
+  	opacity: 25%
+}
+
+.div3-left {
+	margin-top: 15px;
+	margin-right: 15px;
+	display: inline-block;
+    width: 30%;
+    vertical-align: top;
+
+}
+
+.div3-center {
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-left: 10px;
+	display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+.div3-right {
+	margin-top: 15px;
+	margin-left: 15px;
+	display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+.div4 {
+    display: block;
+    border: 1px;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.div4-left {
+    margin-top: 15px;
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+.div4-right {
+    margin-top: 50px;
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
